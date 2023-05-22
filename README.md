@@ -1,5 +1,5 @@
 # Roblox Version Notifier
-![Roblox Version Notifier Logo](https://raw.githubusercontent.com/Tarvey/RVN/main/md/robloxupdatemd.png)
+![Roblox Version Notifier Logo](https://raw.githubusercontent.com/Tarvey/RVN/main/md/robloxupdatemd.png) ![](https://raw.githubusercontent.com/Tarvey/RVN/main/md/robloxupdatemd.png) ![](https://raw.githubusercontent.com/Tarvey/RVN/main/md/robloxupdatemd.png)
 Get notified of a new roblox version!
 
 ## How to use:
@@ -11,6 +11,8 @@ add a settings.json file, heres a [sample](https://raw.githubusercontent.com/Tar
 
 launch RVN.exe or RVN-debug.exe
 # What do i put in settings.json?
+🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
+
 icon: change if you want a custom windows 10 notification icon, needs to be a ico file.
 
 R> secs: the time each notification pops up for.
