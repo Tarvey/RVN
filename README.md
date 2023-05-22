@@ -1,4 +1,5 @@
 # Roblox Version Notifier
+![Roblox Version Notifier Logo](https://raw.githubusercontent.com/Tarvey/RVN/main/assets/robloxupdate.png)
 Get notified of a new roblox version!
 
 ## How to use:
