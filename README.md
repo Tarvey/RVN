@@ -13,7 +13,7 @@ launch RVN.exe or RVN-debug.exe
 # What do i put in settings.json?
 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 
-icon: change if you want a custom windows 10 notification icon, needs to be a ico file.
+R> icon: change if you want a custom windows 10 notification icon, needs to be a ico file.
 
 R> secs: the time each notification pops up for.
 
