@@ -1,0 +1,8 @@
+{
+	"icon": "assets/robloxupdate.ico",
+	"secs": 10,
+	"secstart": 10,
+	"check": 30,
+	"auto": true,
+	"username": "admin"
+}
